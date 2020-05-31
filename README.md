@@ -1,2 +1,2 @@
-# Hngi7
-This is a repo for the Hngi7 task
+# Hngi7 Task
+More updates as tasks are assigned.
